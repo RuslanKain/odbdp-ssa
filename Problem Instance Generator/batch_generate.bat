@@ -1,0 +1,1 @@
+FOR %%i IN (5000 10000) DO FOR %%q IN (5000 10000) DO FOR %%c IN (50000 100000) DO FOR %%G IN (100 50 25) DO FOR %%M IN (80 50 20) DO gen.exe -i %%i -q %%q -c %%c -class 1 -G %%G -M %%M 
