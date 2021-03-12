@@ -4,7 +4,7 @@ C++ Implementation of Scatter Search Algotirhm as discribed in "The Index Select
 Creates exectuable that solves problem instance .odbdp files.
 Resulting Solution is outputed as a .sol file along side a .txt file showing timeing and objective value optained during run time
 
-Command to run in cmd prompt:
+# Command to run in cmd prompt:
 
 obdbdp.exe i#.q#.c#.g#.m#.odbdp -t #
 
